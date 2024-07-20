@@ -22,7 +22,7 @@
     "react-qr-barcode-scanner": "^1.0.6",
     "react-qr-code": "^2.0.13",
     "react-qrcode-reader": "^2.3.13",
-    "react-router-dom": "^6.23.1",
+    "react-router-dom": "^6.24.0",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
